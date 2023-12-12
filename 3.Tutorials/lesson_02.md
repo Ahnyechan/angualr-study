@@ -8,7 +8,8 @@
 - lesson_01에서는 다른 모든 컴포넌트를 포함하는 기능을 하는 앱 컴포넌트를 업데이트함
 - 이번 lesson에서 앱의 홈 페이지를 표시하는 `HomeComponent`를 만든 후 앱에 더 많은 기능을 제공하기 위해 더 많은 컴포넌트를 만들도록 함
 
-![[Pasted image 20231211105524.png]]
+![img](/assets/Pasted_image_20231211105524.png)
+
 
 Angular에서 컴포넌트에는 그 속성을 정의하는 메타데이터가 있음
 
@@ -79,7 +80,7 @@ export class HomeComponent {
 6. If `ng serve` is running, the app should update. If `ng serve` is not running, start it again. _Hello world_ in your app should change to _home works!_ from the `HomeComponent`.
     
 7. Check the running app in the browser and confirm that the app has been updated.
-![[Pasted image 20231211152223.png]]
+
 ### Step 3 - Add features to `HomeComponent`
 
 이 단계에서는 홈 컴포넌트에 기능을 추가합니다.
@@ -152,6 +153,4 @@ button {
 ```
 
 4. 앱이 오류 없이 빌드되는지 확인
-
-![[Pasted image 20231211152207.png]]
 
